@@ -83,17 +83,6 @@ Here you have details about requirements, configuration and setup.
 <a href="https://opensource-emr.github.io/hospital-management-emr/#setup" target="_blank">
     :point_right: docs
 </a>
-
-Credits
-========
-
-## Sponsors
-All sponsors are here. Thanks all sponsors for your contributions.
-
-<a href="https://www.imarkdigital.com/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/48054642/161473176-51fcb05f-e87f-4229-8673-887bf5060fe0.png" />
-</a>
-
 ## Contributors
 Thanks all contributors. 
 
