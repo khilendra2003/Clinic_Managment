@@ -59,10 +59,6 @@ Use below `credentials` for login
    Password  : pass123
 ```   
 
-Need help?
-==============
-If you have any issues please send us mail at shiv_koirala@yahoo.com  more than happy to help you in understanding and installing.
-
 Installation & Setup
 ======================
 Getting start with **DanpheEMR** Please visit <a href="https://opensource-emr.github.io/hospital-management-emr//#setup" target="_blank">
